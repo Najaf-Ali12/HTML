@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>pancho school timetable</title>
+        <h1>Time table of classroom</h1>
+        <body>
+            <table border="2">
+                <tr>
+                    <th><img src="clock.PNG" width="100" alt="clock"></th>
+                    <th>monday</th>
+                    <th>tuesday</th>
+                    <th>wednesday</th>
+                    <th>thursday</th>
+                    <th>friday</th>
+                </tr>
+                <tr>
+                    <td>9:00</td>
+                    <td>english</td>
+                    <td>mathematics</td>
+                    <td>science</td>
+                    <td>sindhi</td>
+                    <td>islamiat</td>
+                </tr>
+                <tr>
+                    <td>10:00</td>
+                    <td>pak study</td>
+                    <td>social science</td>
+                    <td>mathematics</td>
+                    <td>english</td>
+                    <td>urdu</td>
+                </tr>
+                <tr>
+                    <td>11:00</td>
+                    <td>islamiat</td>
+                    <td>science</td>
+                    <td>biology</td>
+                    <td>english</td>
+                    <td>sindhi</td>
+                </tr>
+            </table>
+        </body>
+    </head>
+</html>
+<!-- make a table that  will be uploaded on google classroom -->
